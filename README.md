@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+## Zion & Bryce
 
-You can use the [editor on GitHub](https://github.com/bricemciver/vacation-plans/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Itinerary
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Day 1
+Flight to Las Vegas
 
-### Markdown
+- Leave KC at 10
+- Arrive in Las Vegas around 11 (PDT)
+- Pick up car
+- Park and check into hotel
+- Sleep or check out the strip
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Day 2
+Drive to Zion
 
-```markdown
-Syntax highlighted code block
+- Check out of hotel
+- Drive to Zion (4 hrs)
+- Grab lunch on the way (I'll ask friend in St. George for good options)
+- Maybe hit grocery store
+- Check into lodging
+- Potential hikes
+  - Emerald Pools
 
-# Header 1
-## Header 2
-### Header 3
+### Day 3
+Explore Zion
 
-- Bulleted
-- List
+- Breakfast (at cabin or elsewhere)
+- Hiking
+  - Angels Landing
 
-1. Numbered
-2. List
+- Other activites
+  - Explore Springdale
+  
+### Day 4
+Explore Zion some more
 
-**Bold** and _Italic_ and `Code` text
+- Breakfast (at cabin or elsewhere)
+- Hiking
+  - The Narrows
+  - Zion Observation Point
 
-[Link](url) and ![Image](src)
-```
+- Check out of lodging
+- Travel to Bryce Canyon (2 hrs)
+- Check into lodging
+- Dinner in town
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Day 5
+Explore Bryce
 
-### Jekyll Themes
+- Breakfast (at cabin or elsewhere)
+- Hiking
+  - Fairyland Loop trail
+  - Sunrise Point
+  - Sunset Point
+  
+### Day 6
+Explore and head home
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bricemciver/vacation-plans/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Breakfast (at cabin or elsewhere)
+- Check out of lodging
+- Hiking
+  - Peek-A-Boo Loop
+  - Wall Street
+- Drive to Las Vegas (5 hrs)
+- Flight to KC
